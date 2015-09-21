@@ -1,5 +1,5 @@
 # ListPublicProjects
-List of projects that I worked on in the past both at school and outside projects.
+List of projects that I worked on in the past. This list includes project built both inside school and outside school projects.
 
 * The Campaign Contribution Tableau project was built on an Oracle server. For this project, we used Tableau, R-Studio, and SQL Developer. Team: Jinho Kim, Felix Olazaran, and Hans Urquia. - School Project
 https://github.com/olazaran/CS378-CampaignContributions
